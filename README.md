@@ -1,2 +1,2 @@
 # Currency
-These values are from exchange rates updated May 13, 2020 via https://api.exchangeratesapi.io/latest?base=USD.
+These values are yearly exchange rates converted to USD on January 1 from 2000 - 2020 from https://api.exchangeratesapi.io.
